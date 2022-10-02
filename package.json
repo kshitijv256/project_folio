@@ -19,5 +19,6 @@
   "homepage": "https://github.com/kshitijv256/project_folio#readme",
   "dependencies": {
     "minimist": "^1.2.6"
-  }
+  },
+  "devDependencies": {}
 }
